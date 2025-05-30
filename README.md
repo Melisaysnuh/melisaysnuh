@@ -63,6 +63,3 @@
 - [Email](mailto:melissacessna@yahoo.com)
 - [GitHub](https://github.com/melisaysnuh)
 
----
-
-Thanks for visiting! 🌟  
