@@ -1,6 +1,5 @@
 # Melissa Cessna
-I’m a Berlin-based full-stack developer 🇺🇸 → 🇬🇧 → 🇵🇦 → 🇨🇱 → 🇪🇺  with an international background in strategic communications and a passion for building software that drives meaningful impact.
----
+
 ### Highlights
 
 - **[GlowPath](https://glowpathorg.github.io/GlowPath/)** → real-time geolocation safety app (backend lead, CI best practices, secure auth middleware)  
