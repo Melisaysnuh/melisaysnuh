@@ -1,18 +1,14 @@
-# Hi, I’m Melissa! 👋
-
+# Melissa Cessna
 I’m a Berlin-based full-stack developer 🇺🇸 → 🇬🇧 → 🇵🇦 → 🇨🇱 → 🇪🇺  with an international background in strategic communications and a passion for building software that drives meaningful impact.
-
-After years working in internal communications at companies like Coca-Cola Europe, FlixBus, and adidas, I transitioned into full-time development — creating tools that save time, optimize workflows, and empower users.
-
 ---
-### 🌟 Recent Highlights
+### Highlights
 
 - **[GlowPath](https://glowpathorg.github.io/GlowPath/)** → real-time geolocation safety app (backend lead, CI best practices, secure auth middleware)  
 - **[WordWeb](https://www.wordwebs.de/)** → daily-refresh word game PWA (engaging backend + frontend features)  
 - **[Jetztpat](https://app.jetztpat.com/)** → expat dashboard (optimized backend queries, dynamic routing)
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 #### 💻 **Languages & Core**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
