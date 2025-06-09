@@ -3,7 +3,7 @@
 ### Highlights
 
 - **[GlowPath](https://glowpathorg.github.io/GlowPath/)** → real-time geolocation safety app 
-- **[WordWeb](https://wordwebs.de/)** → daily-refresh word game (see backend service [here](https://github.com/Melisaysnuh/word-web-daily-service))
+- **[WordWeb](https://www.wordwebs.de/)** → daily-refresh word game (see backend service [here](https://github.com/Melisaysnuh/word-web-daily-service))
 - **[Jetztpat](https://app.jetztpat.com/)** → customized dashboards for HR users and expat users 
 ---
 
